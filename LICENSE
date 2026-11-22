@@ -7,7 +7,8 @@ Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
 
 Attribution for reuse:
 - This dataset: tw-scam-patterns (https://github.com/meor-ui/tw-scam-patterns)
-- Original source data: 內政部警政署 (National Police Agency, Ministry of the
-  Interior, Taiwan). Reused under the Ministry of the Interior's open data
+- Original source data: 內政部警政署刑事警察局 (Criminal Investigation Bureau,
+  National Police Agency, Taiwan), per-row sources in data/scam_patterns.csv.
+  Reused under the Ministry of the Interior's open data
   declaration (https://www.moi.gov.tw/cp.aspx?n=10954), which requires source
   attribution and does not imply endorsement by the agency.
